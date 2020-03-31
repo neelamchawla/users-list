@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "265d72943ea8b94a2ec370ec87296978",
+    "revision": "85ebc17f595f36ea0482576a92eb22a0",
     "url": "/neelamchawla/users-list.git/index.html"
   },
   {
