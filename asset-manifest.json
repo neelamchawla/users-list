@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/neelamchawla/users-list.git/static/css/main.75a5f6ce.chunk.css",
-    "main.js": "/neelamchawla/users-list.git/static/js/main.1f8c8e02.chunk.js",
-    "main.js.map": "/neelamchawla/users-list.git/static/js/main.1f8c8e02.chunk.js.map",
-    "runtime-main.js": "/neelamchawla/users-list.git/static/js/runtime-main.77b05165.js",
-    "runtime-main.js.map": "/neelamchawla/users-list.git/static/js/runtime-main.77b05165.js.map",
-    "static/js/2.5132d7ee.chunk.js": "/neelamchawla/users-list.git/static/js/2.5132d7ee.chunk.js",
-    "static/js/2.5132d7ee.chunk.js.map": "/neelamchawla/users-list.git/static/js/2.5132d7ee.chunk.js.map",
-    "index.html": "/neelamchawla/users-list.git/index.html",
-    "precache-manifest.62a59d70eae005a84daf17bffb95e728.js": "/neelamchawla/users-list.git/precache-manifest.62a59d70eae005a84daf17bffb95e728.js",
-    "service-worker.js": "/neelamchawla/users-list.git/service-worker.js",
-    "static/css/main.75a5f6ce.chunk.css.map": "/neelamchawla/users-list.git/static/css/main.75a5f6ce.chunk.css.map",
-    "static/js/2.5132d7ee.chunk.js.LICENSE.txt": "/neelamchawla/users-list.git/static/js/2.5132d7ee.chunk.js.LICENSE.txt"
+    "main.css": "/users-list/static/css/main.75a5f6ce.chunk.css",
+    "main.js": "/users-list/static/js/main.87dad54a.chunk.js",
+    "main.js.map": "/users-list/static/js/main.87dad54a.chunk.js.map",
+    "runtime-main.js": "/users-list/static/js/runtime-main.9e2f1de2.js",
+    "runtime-main.js.map": "/users-list/static/js/runtime-main.9e2f1de2.js.map",
+    "static/js/2.5132d7ee.chunk.js": "/users-list/static/js/2.5132d7ee.chunk.js",
+    "static/js/2.5132d7ee.chunk.js.map": "/users-list/static/js/2.5132d7ee.chunk.js.map",
+    "index.html": "/users-list/index.html",
+    "precache-manifest.aa61ece8913c97535bcc314a290299ec.js": "/users-list/precache-manifest.aa61ece8913c97535bcc314a290299ec.js",
+    "service-worker.js": "/users-list/service-worker.js",
+    "static/css/main.75a5f6ce.chunk.css.map": "/users-list/static/css/main.75a5f6ce.chunk.css.map",
+    "static/js/2.5132d7ee.chunk.js.LICENSE.txt": "/users-list/static/js/2.5132d7ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.77b05165.js",
+    "static/js/runtime-main.9e2f1de2.js",
     "static/js/2.5132d7ee.chunk.js",
     "static/css/main.75a5f6ce.chunk.css",
-    "static/js/main.1f8c8e02.chunk.js"
+    "static/js/main.87dad54a.chunk.js"
   ]
 }
